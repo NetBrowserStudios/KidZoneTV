@@ -1,0 +1,50 @@
+body {
+  font-family: 'Comic Sans MS', cursive;
+  background-color: #FFF8DC;
+  text-align: center;
+  padding: 20px;
+}
+
+header {
+  background-color: #FFD700;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.bot-img {
+  width: 120px;
+  margin-top: 10px;
+}
+
+.bot-speech {
+  font-size: 1.1em;
+  color: #FF4500;
+  margin-top: 10px;
+}
+
+.video-section h2 {
+  color: #4CAF50;
+  margin-top: 30px;
+}
+
+video {
+  margin: 20px;
+  border: 5px solid #FFD700;
+  border-radius: 10px;
+  box-shadow: 0 0 10px #aaa;
+}
+
+.next-lesson button {
+  font-size: 1em;
+  padding: 10px 20px;
+  background-color: #87CEEB;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+footer {
+  margin-top: 40px;
+  font-size: 0.9em;
+  color: #555;
+}
